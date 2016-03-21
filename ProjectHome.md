@@ -1,0 +1,1 @@
+zigbee mesh networking protocol will be used
